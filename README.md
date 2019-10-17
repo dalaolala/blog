@@ -8,5 +8,4 @@
 [乌克兰免费域名注册](https://github.com/dalaolala/myblog/issues/3)<br><br>
 [利用cloudflare对任意的网站进行反代](https://github.com/dalaolala/myblog/issues/3)
 
-[example](http://yinping4256.github.io){:target="_blank"}
 
