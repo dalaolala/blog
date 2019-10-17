@@ -1,5 +1,5 @@
-#### myblog
-用issue来写博客 和别人学的
+#### This is myblog
+这是用github issue来写的博客 ~
 
 ##### 2019-10
 [v2ray 进阶配置 ws+tls+nginx+cf](https://github.com/dalaolala/myblog/issues/1)<br><br>
