@@ -1,4 +1,4 @@
-#### This is myblog
+#### This is my blog
 欢迎~ 欢迎~
 这是用Github Issue来写的博客 ~
 
