@@ -7,7 +7,7 @@
 [小硬盘的vps手动清理日志](https://github.com/dalaolala/myblog/issues/2)<br><br>
 [乌克兰免费域名注册](https://github.com/dalaolala/myblog/issues/3)<br><br>
 [利用cloudflare对任意的网站进行反代](https://github.com/dalaolala/myblog/issues/4)<br><br>
-[宝塔nginx手动配置反向代理](https://github.com/dalaolala/myblog/issues/4)
+[宝塔nginx手动配置反向代理](https://github.com/dalaolala/myblog/issues/5)
 
 
 
