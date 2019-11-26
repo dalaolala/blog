@@ -2,7 +2,9 @@
 
 这是用Github Issue来写的博客 ~
 ##### 2019-11
-[基于宝塔搭建h5ai目录列表程序](https://github.com/dalaolala/myblog/issues/7)
+[基于宝塔搭建h5ai目录列表程序](https://github.com/dalaolala/myblog/issues/7)<br>
+[离线安装nginx和redis](https://github.com/dalaolala/myblog/issues/8)
+
 ##### 2019-10
 [v2ray 进阶配置 ws+tls+nginx+cf](https://github.com/dalaolala/myblog/issues/1)<br>
 [小硬盘的vps手动清理日志](https://github.com/dalaolala/myblog/issues/2)<br>
