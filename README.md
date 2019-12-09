@@ -1,6 +1,9 @@
 #### 欢迎~ 欢迎
 
 这是用Github Issue来写的博客 ~
+##### 2019-12
+[在 Heroku 搭建 V2Ray](https://github.com/dalaolala/blog/issues/9)
+
 ##### 2019-11
 [基于宝塔搭建h5ai目录列表程序](https://github.com/dalaolala/myblog/issues/7)<br><br>
 [离线安装nginx和redis](https://github.com/dalaolala/myblog/issues/8)
