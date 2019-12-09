@@ -1,6 +1,6 @@
 #### 欢迎~ 欢迎
 
-来到我的博客 ~ 这里只记录一些探索~
+来到我的博客 ~
 ##### 2019-12
 [在Heroku搭建v2ray](https://github.com/dalaolala/blog/issues/9)
 
