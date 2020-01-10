@@ -2,6 +2,7 @@
 
 来到我的博客 ~
 ##### 2020-01
+[使用V2搭建Socks5代理](https://github.com/dalaolala/blog/issues/13)<br>
 [一键搭建MTProto代理支持TLS](https://github.com/dalaolala/blog/issues/12)<br>
 [centos7 升级到python3](https://github.com/dalaolala/blog/issues/11)<br>
 [Docker一键安装网络加速](https://github.com/dalaolala/blog/issues/10)<br>
