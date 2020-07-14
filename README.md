@@ -1,6 +1,11 @@
 #### 欢迎~ 欢迎~
 
 来到我的博客 ~
+##### 2020-07
+[NAT服务器开启并获取独立公网IPv6地址](https://github.com/dalaolala/blog/issues/17)<br>
+[获取telegram的常用ip段](https://github.com/dalaolala/blog/issues/16)<br>
+[docker常用命令集合](https://github.com/dalaolala/blog/issues/15)<br>
+
 ##### 2020-01
 [Linux常用的命令](https://github.com/dalaolala/blog/issues/14)<br>
 [使用V2搭建Socks5代理](https://github.com/dalaolala/blog/issues/13)<br>
