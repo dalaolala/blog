@@ -2,6 +2,7 @@
 
 来到我的博客 ~
 ##### 2020-07
+[centos7安装nginx无法读取证书报错解决](https://github.com/dalaolala/blog/issues/18)<br>
 [NAT服务器开启并获取独立公网IPv6地址](https://github.com/dalaolala/blog/issues/17)<br>
 [获取telegram的常用ip段](https://github.com/dalaolala/blog/issues/16)<br>
 [docker常用命令集合](https://github.com/dalaolala/blog/issues/15)<br>
