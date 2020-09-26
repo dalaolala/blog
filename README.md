@@ -2,6 +2,7 @@
 
 来到我的博客 ~
 ##### 2020-07
+[手动安装nginx+php7.2+OneManager](https://github.com/dalaolala/blog/issues/20)<br>
 [Onedrive+OneManager+Heroku+CFWorkers](https://github.com/dalaolala/blog/issues/19)<br>
 
 ##### 2020-07
