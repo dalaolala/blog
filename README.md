@@ -1,6 +1,8 @@
 #### 欢迎~ 欢迎~
 
 来到我的博客 ~
+##### 2020-11
+[CloudFront自选IP完全手册](https://github.com/dalaolala/blog/issues/22)<br>
 
 ##### 2020-09
 [Cloudfront最通用配置](https://github.com/dalaolala/blog/issues/21)<br>
