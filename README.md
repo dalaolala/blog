@@ -1,6 +1,6 @@
 #### 欢迎~ 欢迎~
 
-来到我的博客 ~
+来到我的博客 域名是https://lala.pp.ua ~
 ##### 2020-11
 [CloudFront自选IP完全手册](https://github.com/dalaolala/blog/issues/22)<br>
 
