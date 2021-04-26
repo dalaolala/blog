@@ -2,7 +2,7 @@
 
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
 ##### 2021-04
-[CloudFront自选IP完全手册](https://github.com/dalaolala/blog/issues/23)<br>
+[宝塔跳过首页弹出的验证](https://github.com/dalaolala/blog/issues/23)<br>
 
 ##### 2020-11
 [CloudFront自选IP完全手册](https://github.com/dalaolala/blog/issues/22)<br>
