@@ -1,6 +1,9 @@
 #### 欢迎~ 欢迎~
 
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
+##### 2021-04
+[CloudFront自选IP完全手册](https://github.com/dalaolala/blog/issues/23)<br>
+
 ##### 2020-11
 [CloudFront自选IP完全手册](https://github.com/dalaolala/blog/issues/22)<br>
 
