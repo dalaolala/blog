@@ -1,6 +1,10 @@
 #### 欢迎~ 欢迎~
 
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
+##### 2021-05
+[手动安装旧版本的v2ray](https://github.com/dalaolala/blog/issues/25)<br>
+[安装极简论坛Flarum](https://github.com/dalaolala/blog/issues/24)<br>
+
 ##### 2021-04
 [宝塔跳过首页弹出的验证](https://github.com/dalaolala/blog/issues/23)<br>
 
