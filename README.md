@@ -3,6 +3,8 @@
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
 ##### 2021-05
 
+
+[在线重装系统的几个办法](https://github.com/dalaolala/blog/issues/26)<br>
 [安装vless协议的v2ray](https://github.com/dalaolala/blog/issues/26)<br>
 [手动安装旧版本的v2ray](https://github.com/dalaolala/blog/issues/25)<br>
 [安装极简论坛Flarum](https://github.com/dalaolala/blog/issues/24)<br>
