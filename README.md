@@ -3,7 +3,7 @@
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
 
 ##### 2021-09
-
+[利用jsdelivr进行静态文件的cdn加速服务](https://github.com/dalaolala/blog/issues/31)<br>
 [获取阿里云云盘的refresh_token](https://github.com/dalaolala/blog/issues/30)<br>
 
 
