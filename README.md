@@ -2,6 +2,12 @@
 
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
 
+##### 2021-10
+
+[云函数部署python程序解决依赖的问题](https://github.com/dalaolala/blog/issues/34)<br>
+[搭建web版的ssh终端](https://github.com/dalaolala/blog/issues/33)<br>
+
+
 ##### 2021-09
 
 [gmail配置邮箱发信](https://github.com/dalaolala/blog/issues/32)<br>
