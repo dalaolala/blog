@@ -4,6 +4,7 @@
 
 ##### 2021-10
 
+[pip下载速度加速](https://github.com/dalaolala/blog/issues/35)<br>
 [云函数部署python程序解决依赖的问题](https://github.com/dalaolala/blog/issues/34)<br>
 [搭建web版的ssh终端](https://github.com/dalaolala/blog/issues/33)<br>
 
