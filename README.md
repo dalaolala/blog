@@ -3,6 +3,8 @@
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
 
 ##### 2021-12
+[通过二维码发布下载地址](https://github.com/dalaolala/blog/issues/38)<br>
+[微信扫码提示在浏览器中打开的遮罩代码](https://github.com/dalaolala/blog/issues/37)<br>
 [上传私有github仓库](https://github.com/dalaolala/blog/issues/36)<br>
 
 ##### 2021-10
