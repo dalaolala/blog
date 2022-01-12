@@ -2,6 +2,9 @@
 
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
 
+##### 2022-01
+[纯ipv6 开启aapanel面板的域名访问](https://github.com/dalaolala/blog/issues/39)<br>
+
 ##### 2021-12
 [通过二维码发布下载地址](https://github.com/dalaolala/blog/issues/38)<br>
 [微信扫码提示在浏览器中打开的遮罩代码](https://github.com/dalaolala/blog/issues/37)<br>
