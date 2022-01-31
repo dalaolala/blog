@@ -3,6 +3,8 @@
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
 
 ##### 2022-01
+[在线翻译接口](https://github.com/dalaolala/blog/issues/41)<br>
+[frp透传内网的web服务](https://github.com/dalaolala/blog/issues/40)<br>
 [纯ipv6 开启aapanel面板的域名访问](https://github.com/dalaolala/blog/issues/39)<br>
 
 ##### 2021-12
