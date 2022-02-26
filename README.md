@@ -2,6 +2,10 @@
 
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
 
+##### 2022-02
+[自建网页统计功能平台](https://github.com/dalaolala/blog/issues/43)<br>
+[centos手动挂载磁盘](https://github.com/dalaolala/blog/issues/42<br>
+
 ##### 2022-01
 [在线翻译接口](https://github.com/dalaolala/blog/issues/41)<br>
 [frp透传内网的web服务](https://github.com/dalaolala/blog/issues/40)<br>
