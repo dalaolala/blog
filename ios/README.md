@@ -16,6 +16,6 @@ apt-get install -y xz-utils openssl gawk file wget
 
 #### 重装脚本
 ```
-wget --no-check-certificate https://www.815494.com/html/shell/dd/NewReinstall.sh && chmod a+x NewReinstall.sh && bash NewReinstall.sh
+wget --no-check-certificate https://raw.githubusercontent.com/dalaolala/blog/master/ios/reinstall.sh && chmod a+x reinstall.sh && bash reinstall.sh
 
 ```
