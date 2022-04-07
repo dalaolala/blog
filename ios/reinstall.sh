@@ -157,7 +157,7 @@ function Start() {
   DMIRROR=''
   UMIRROR=''
   SYSMIRROR1='http://os.815494.xyz/centos/CentOS-7.img.gz'
-  SYSMIRROR2='https://odc.cxthhhhh.com/SyStem/CentOS/CentOS_7.X_NetInstallation_Final_v9.2.vhd.gz'
+  SYSMIRROR2='https://pan.listgo.ml/BBBB/CentOS_7.X_NetInstallation_Final_v9.2.vhd.gz'
   SYSMIRROR3='http://os.815494.xyz/centos/CentOS_8.X_NetInstallation_Stable_v4.2.vhd.gz'
   SYSMIRROR12='http://share.815494.xyz/windows/2019/Disk_Windows_Server_2019_DataCenter_CN_v5.1.vhd.gz'
   SYSMIRROR13='http://os.815494.xyz/windows/2016/winsrv2016-data-x64-cn.vhd.gz'
@@ -180,7 +180,7 @@ function Start() {
     DMIRROR="--mirror http://mirrors.tencent.com/debian/"
     UMIRROR="--mirror http://mirrors.tencent.com/ubuntu/"
     SYSMIRROR1='http://os.815494.xyz/centos/CentOS-7.img.gz'
-    SYSMIRROR2='https://odc.cxthhhhh.com/SyStem/CentOS/CentOS_7.X_NetInstallation_Final_v9.2.vhd.gz'
+    SYSMIRROR2='https://pan.listgo.ml/BBBB/CentOS_7.X_NetInstallation_Final_v9.2.vhd.gz'
     SYSMIRROR3='http://os.815494.xyz/centos/CentOS_8.X_NetInstallation_Stable_v4.2.vhd.gz'
     SYSMIRROR12='http://share.815494.xyz/windows/2019/Disk_Windows_Server_2019_DataCenter_CN_v5.1.vhd.gz'
     SYSMIRROR13='http://os.815494.xyz/windows/2016/winsrv2016-data-x64-cn.vhd.gz'
