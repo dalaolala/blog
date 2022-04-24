@@ -1,6 +1,8 @@
 #### 欢迎~ 欢迎~
 
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
+##### 2022-02
+[cenot7安装go语言以及设置环境变量](https://github.com/dalaolala/blog/issues/44)<br>
 
 ##### 2022-02
 [自建网页统计功能平台](https://github.com/dalaolala/blog/issues/43)<br>
