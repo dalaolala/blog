@@ -1,6 +1,13 @@
 #### 欢迎~ 欢迎~
 
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
+
+##### 2022-07
+[CloudFlare通过SaaS免费使用CNAME接入域名解析](https://github.com/dalaolala/blog/issues/46)<br>
+
+##### 2022-06
+[防止X-Forwarded-For伪造客户端IP漏洞，获取真实IP方法](https://github.com/dalaolala/blog/issues/45)<br>
+
 ##### 2022-02
 [cenot7安装go语言以及设置环境变量](https://github.com/dalaolala/blog/issues/44)<br>
 
