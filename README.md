@@ -2,6 +2,9 @@
 
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
 
+##### 2023-05
+[KeepAlive高可用配置](https://github.com/dalaolala/blog/issues/47)<br>
+
 ##### 2022-07
 [CloudFlare通过SaaS免费使用CNAME接入域名解析](https://github.com/dalaolala/blog/issues/46)<br>
 
