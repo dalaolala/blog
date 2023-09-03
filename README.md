@@ -3,6 +3,9 @@
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
 
 ##### 2023-07
+[在线生成2FA验证码](https://github.com/dalaolala/blog/issues/51)<br>
+
+##### 2023-07
 [poe网页转OpenAI接口镜像](https://github.com/dalaolala/blog/issues/50)<br>
 
 ##### 2023-05
