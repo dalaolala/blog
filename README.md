@@ -2,6 +2,9 @@
 
 来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
 
+##### 2023-11
+[k3s跨云组建集群](https://github.com/dalaolala/blog/issues/52)<br>
+
 ##### 2023-09
 [在线生成2FA验证码](https://github.com/dalaolala/blog/issues/51)<br>
 
