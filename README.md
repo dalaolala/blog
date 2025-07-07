@@ -1,6 +1,6 @@
 #### 欢迎~ 欢迎~
 
-来到我的博客，怕迷路的话，[点这里的传送门](https://lala.pp.ua)<br>
+来到我的博客，怕迷路的话，[点这里的传送门](https://xblog.zone.id)<br>
 
 ##### 2023-11
 [docker一键申请Letsencrypt的SSL证书](https://github.com/dalaolala/blog/issues/53)<br>
